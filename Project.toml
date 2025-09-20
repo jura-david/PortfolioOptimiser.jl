@@ -5,6 +5,7 @@ version = "0.1.0"
 
 [deps]
 AverageShiftedHistograms = "77b51b56-6f8f-5c3a-9cb4-d71f9594ea6e"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
@@ -35,6 +36,7 @@ PortfolioOptimiserPlotsExt = ["GraphRecipes", "StatsPlots"]
 
 [compat]
 AverageShiftedHistograms = "0.8"
+CSV = "0.10"
 Clustering = "0.15"
 DataFrames = "1.7"
 Dates = "1.11"

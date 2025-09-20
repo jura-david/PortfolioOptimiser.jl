@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: MIT
 
 module PortfolioOptimiser
-using AverageShiftedHistograms, Clustering, DataFrames, Dates, Distances, Distributions,
+using AverageShiftedHistograms, Clustering, CSV, DataFrames, Dates, Distances, Distributions,
       GLM, JuMP, LinearAlgebra, MultivariateStats, NearestCorrelationMatrix, Optim, Graphs,
       SimpleWeightedGraphs, PyCall, Random, SmartAsserts, SparseArrays, Statistics,
       StatsBase, TimeSeries
